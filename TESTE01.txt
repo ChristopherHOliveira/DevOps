@@ -1,3 +1,0 @@
-Trabalhando com o git
-
-passo a passo (ADD, COMMIT e PUSH)
